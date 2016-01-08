@@ -2,9 +2,7 @@
 
 Great, 
 now that we've cloned our repo,
-let's make a few changes
-
-LIKE THIS CHANGE.
+let's make a few changes:...
 
 and then push and commit them back to our github repo. 
 
